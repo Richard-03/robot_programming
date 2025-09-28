@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Wextra -pedantic -rdynamic CMakeFiles/target_eseguibile.dir/many_object_in_stack_example.cpp.o -o target_eseguibile  -Wl,-rpath,/home/linuxriber/robot_programming/exercises/rp_01_compilers_and_build_systems/build/src ../src/libcore_library.so 
